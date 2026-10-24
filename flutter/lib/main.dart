@@ -11,9 +11,9 @@ class FieldApp extends StatelessWidget {
     final platform = kIsWeb ? 'web' : defaultTargetPlatform.name;
 
     return MaterialApp(
-      title: 'The Owls',
+      title: 'Rebeca Alexandra',
       home: Scaffold(
-        appBar: AppBar(title: const Text('The Owls')),
+        appBar: AppBar(title: const Text('Rebeca Alexandra')),
         body: Center(
           child: Text('Hello from Flutter on $platform'),
         ),

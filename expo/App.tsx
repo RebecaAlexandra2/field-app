@@ -4,7 +4,7 @@ import { Platform, StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>The Owls</Text>
+      <Text style={styles.title}>Rebeca Alexandra</Text>
       <Text>Hello from Expo on {Platform.OS}</Text>
       <StatusBar style="auto" />
     </View>
